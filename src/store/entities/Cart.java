@@ -1,5 +1,7 @@
 package store.entities;
 
+import store.entities.Product;
+
 public interface Cart {
 	
 	boolean isEmpty();

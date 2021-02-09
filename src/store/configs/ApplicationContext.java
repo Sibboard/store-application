@@ -1,6 +1,7 @@
 package store.configs;
 
 import store.entities.*;
+import store.entities.impl.DefaultCart;
 import store.menu.Menu;
 
 public class ApplicationContext {
