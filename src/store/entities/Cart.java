@@ -1,12 +1,10 @@
 package store.entities;
 
-import store.entities.Product;
-
 public interface Cart {
 	
 	boolean isEmpty();
 
-	void addProduct(Product productById);
+	void addProduct(Product product);
 
 	Product[] getProducts();
 

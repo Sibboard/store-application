@@ -1,6 +1,7 @@
 package store.configs;
-
-import store.entities.*;
+ 
+import store.entities.Cart;
+import store.entities.User;
 import store.entities.impl.DefaultCart;
 import store.menu.Menu;
 
